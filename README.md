@@ -1,4 +1,4 @@
-![378098602-319707aa-6826-4624-b064-16fe84a5606a](https://github.com/user-attachments/assets/126e1ecf-dc84-4a9f-aa0c-cc02aff99032)## NAME: RAMKUMAR G
+## NAME: RAMKUMAR G
 ## REG NO: 212223220084
 
 # 4.Execution_of_NetworkCommands
